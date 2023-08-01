@@ -8,8 +8,7 @@
     - Kubernetes
     - Traefik
     - Home-Assistant
-    - Tekton
-    - Crossplane
+    - CloudNative-Postgres
 - 💞️ I’m looking to collaborate on
     - Open Source Projects
 - 📫 How to reach me
